@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/action_alert_dialog"
+        android:orderInCategory="100"
+        android:title="Alert Dlg"
+        android:showAsAction="ifRoom"/>
+    <item android:id="@+id/action_dialog"
+        android:orderInCategory="100"
+        android:title="Dialog"
+        android:showAsAction="ifRoom"/>
+</menu>

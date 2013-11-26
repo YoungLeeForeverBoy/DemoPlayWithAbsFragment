@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+
+    <item
+        android:id="@+id/action_dialog"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="Dialog"/>
+    <item
+        android:id="@+id/action_fragment_menu"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="ft menu"/>
+    <item
+        android:id="@+id/action_list_fragment"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="list ft"/>
+    <item
+        android:id="@+id/action_view_pager"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="viewpager"/>
+</menu>
